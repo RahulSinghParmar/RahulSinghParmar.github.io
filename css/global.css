@@ -65,6 +65,7 @@
 }
 
 /* Buttons */
+/*noinspection ALL,CssInvalidFunction*/
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
@@ -165,7 +166,7 @@
 .card:hover {
   border: 1px solid var(--bg-secondary-color);
   background: var(--bg-primary-color);
-  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.24);
 }
 
 .card-images img {

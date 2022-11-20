@@ -559,6 +559,14 @@ h4 {
 
 .group-bg input,
 .group-bg textarea {
+}
+
+.group-bg input,
+.group-bg textarea {
+}
+
+.group-bg input,
+.group-bg textarea {
   background-color: var(--other--color);
 }
 
@@ -696,11 +704,11 @@ h4 {
   position: sticky;
 }
 
-#hero-project {
+/*#hero-project {
   height: 50vh;
   background: url(../img/projects/projects.jpg) no-repeat center center/cover;
   box-shadow: inset 10px 100px 1000px rgba(0, 0, 0, 0.9);
-}
+}*/
 
 #hero-project .content {
   display: flex;
