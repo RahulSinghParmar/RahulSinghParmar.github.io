@@ -1,4 +1,4 @@
-<img align="center" src=".HomePage.png">
+<img align="center" src="./HomePage.png">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/107d7648-dd15-45d9-9637-2d13681b5f2c/deploy-status)](https://app.netlify.com/sites/victoreke/deploys)
 </p>
